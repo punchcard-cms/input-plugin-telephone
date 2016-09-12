@@ -28,7 +28,7 @@ module.exports = {
       placeholder: '(xxx)xxx-xxxx',
       type: 'tel',
       settings: {
-        empty: true,
+        locale: 'en-US',
       },
     },
   },
